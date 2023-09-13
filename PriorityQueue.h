@@ -6,19 +6,6 @@
 #include <vector>
 #include "Process.h"
 
-/*
-    Author: Don Spickler, edited by William Denny
-    Creation Date: 4/6/2022
-    Last Update: 4/6/2022
-    Description: Templated Priority Queue class that uses the STL vector as the underlying
-    storage structure.
-    Note: The template class T must
-    1. overloaded =
-    2. Have a default constructor
-    3. Overloaded >>
-    4. Copy Constructor
-*/
-
 using namespace std;
 
 // Node data type that holds the data and

@@ -4,12 +4,6 @@
 #include <iostream>
 #include <math.h>
 
-/*
-    Author: Don Spickler
-    Creation Date: 10/25/2018
-    Last Update: 10/26/2018
-    Description: Header file for the Complex class, An example of operator overloading.
-*/
 using namespace std;
 
 class Process
